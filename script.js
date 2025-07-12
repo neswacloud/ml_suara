@@ -1,4 +1,4 @@
-const modelPath = '/content/model.json';
+const modelPath = 'content/model.json';
 let model;
 
 async function loadModel() {
